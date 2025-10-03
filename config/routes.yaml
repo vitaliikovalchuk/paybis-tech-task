@@ -1,0 +1,5 @@
+currency_rate_controllers:
+    resource:
+        path: ../src/CurrencyRate/Presentation/Controller/
+        namespace: App\CurrencyRate\Presentation\Controller
+    type: attribute
